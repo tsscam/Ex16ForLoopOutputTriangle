@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Stars Design\Stars Design\bin\Debug\Stars Design.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Stars Design\Stars Design\bin\Debug\Stars Design.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Stars Design\Stars Design\bin\Debug\Stars Design.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Stars Design\Stars Design\obj\Debug\Stars Design.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Stars Design\Stars Design\obj\Debug\Stars Design.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Stars Design\Stars Design\obj\Debug\Stars Design.pdb
